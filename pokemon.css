@@ -92,7 +92,8 @@ body, ul, li, h1, h2, a{
     top: -4px;
   }
   .images li img{
-    max-width: 100%;
+    /* max-width: 100%; */
+    width: 100%;
   }
   section.join{
     background: #F4F4F4;
